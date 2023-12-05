@@ -8,3 +8,5 @@ Animal crossing kind of game, with three LEDs on the breadboard indicating the t
 IDEA 3- 
 Memory game- With 4-5 numbers flashing on the screen which would indicate the pattern/sequence of buttons to be pressed on the arduino. If the sequence is followed, green LED turns on, if a wrong button is pressed, a red LED turns on and the game restarts.
 
+IDEA 4- 
+Interactive maze- with LEDs on the arduino turning on everytime, a wrong turn is made/ hits a wall.
