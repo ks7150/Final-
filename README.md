@@ -2,7 +2,7 @@
 I plan on coding a memory game, with numbers flashing on the screen and buttons on the breadboard that correspond to those buttons on the breadboard, once the correct sequence is followed, the green led turns on. 
 
 Circuit picture- 
-![Alt text](Circuit.jpeg)
+![Alt text](<Circuit final.jpeg>)
 
 Circuit diagram - 
 ![Alt text](<Circuit-3 buttons.jpeg>)
